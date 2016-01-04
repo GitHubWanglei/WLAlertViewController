@@ -17,3 +17,7 @@
               textFieldPlaceholderAtIndex1:nil];
     //显示
     [alertv show];
+
+效果图:
+
+![image](https://raw.githubusercontent.com/GitHubWanglei/WLAlertViewController/master/image.png)
